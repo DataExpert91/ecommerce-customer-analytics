@@ -42,6 +42,11 @@ Revenue is not the same as profit because the dataset does not include product c
 - The average order value was 510.92, compared with a median of 302.22. The higher average suggests that some large orders raised the mean.
 - For customers with at least two distinct invoices, the average time between the first and second invoice was 97.52 days; the median was 55.96 days.
 
+- ## Visualizations
+
+
+
+
 ## Recommendations
 
 - Explore ways to encourage one-time buyers to make a second purchase.
