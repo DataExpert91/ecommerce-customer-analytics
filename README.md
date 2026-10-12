@@ -26,8 +26,6 @@ The original data will be stored locally and will not be uploaded to this reposi
 - Pandas
 - Matplotlib
 - Seaborn
-- MySQL
-- DBeaver
 
 ## Project Status
 
