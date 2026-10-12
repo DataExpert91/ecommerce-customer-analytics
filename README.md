@@ -97,7 +97,7 @@ Revenue is not the same as profit because the dataset does not include product c
    ```
 
 4. Open the project root folder in VS Code or Jupyter.
-5. Run `notebooks/01_data_exploration.ipynb` from top to bottom.
+5. Run `01_data_exploration.ipynb` from top to bottom.
 
 The notebook's final export cell can create CSV, JSON of the cleaned dataset in the `outputs` folder. These generated files are not included in the repository.
 
