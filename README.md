@@ -44,6 +44,19 @@ Revenue is not the same as profit because the dataset does not include product c
 
 - ## Visualizations
 
+<img width="1041" height="449" alt="Screenshot 2026-10-12 124311" src="https://github.com/user-attachments/assets/15a90be0-df05-4d5b-930e-5940937fc3b5" /> 
+<img width="1041" height="740" alt="Screenshot 2026-10-12 125640" src="https://github.com/user-attachments/assets/5648dffd-f62b-4dc0-a7c8-207e940a3b1e" />
+<img width="1043" height="514" alt="Screenshot 2026-10-12 124818" src="https://github.com/user-attachments/assets/a6f5f5ad-454d-49d0-b283-87f7a2e73ac0" />
+<img width="1040" height="509" alt="Screenshot 2026-10-12 124944" src="https://github.com/user-attachments/assets/9219cf14-29d6-432b-9e0c-0db782bca19b" />
+<img width="1042" height="398" alt="Screenshot 2026-10-12 125459" src="https://github.com/user-attachments/assets/fa837c25-ff54-4c39-98b3-99ae5a5aa0ec" />
+<img width="1039" height="508" alt="Screenshot 2026-10-12 125758" src="https://github.com/user-attachments/assets/59affea6-f88c-4a4a-9433-01982ca9de67" />
+
+
+
+
+
+
+
 
 
 
